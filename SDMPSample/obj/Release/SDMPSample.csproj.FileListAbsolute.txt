@@ -1,0 +1,8 @@
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\bin\Release\SDMPSample.exe
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\bin\Release\SDMPSample.pdb
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\obj\Release\SDMPSample.csprojResolveAssemblyReference.cache
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\obj\Release\SDMPSample.Form1.resources
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\obj\Release\SDMPSample.Properties.Resources.resources
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\obj\Release\SDMPSample.csproj.GenerateResource.Cache
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\obj\Release\SDMPSample.exe
+G:\Employee\xAdamR\Dialer C# Samples\SDMPSample\obj\Release\SDMPSample.pdb
